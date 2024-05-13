@@ -11,9 +11,8 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 <!-- work-flow -->
 
-<!-- -creo un ciclo 'for' che genera un numero randomico 6 volte sia per l'utente che per il computer
+<!-- -assegno due variabili che generano un numero randomico da 1 a 6 sia per l'utente che per il computer
 - creo un if con al interno la differenza tra le due variabili
-- una volta ottenuti i due risultati li sommo 
 - ne faccio la differenza 
 - il magiore sarà il vincitore -->
 
@@ -22,5 +21,6 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
-Saltare a piè dispari [Bonus]
+Saltare a piè dispari
+ <!-- [Bonus] -->
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array

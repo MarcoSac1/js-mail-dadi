@@ -27,12 +27,19 @@ Saltare a piè dispari
 <!-- work-flow -->
 
 <!-- 
-creo un prompt dove l'utente inserisce la propria mail
-verifico che sia presente dentro l'array
-stampo con un consol.log l'esito della verifica 
+- creo un prompt dove l'utente inserisce la propria mail
+- verifico che sia presente dentro l'array
+- stampo con un consol.log l'esito della verifica 
  -->
 
  <!-- [Bonus] -->
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
 
 <!-- work-flow -->
+
+<!-- 
+- assegno un 'Array' vuoto
+- creo un ciclo 'for' in cui per 6 volte chiedo di inserire un numero attraverso un prompt
+- se pari lo inserisco nel 'Array'
+ -->
+

@@ -1,6 +1,3 @@
-
-    
-
     let utenteNum = Math.floor(Math.random() *6 +1);
     let computerNum = Math.floor(Math.random() *6 +1);
     console.log(utenteNum)

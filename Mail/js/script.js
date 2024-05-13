@@ -2,7 +2,7 @@ const mailArray = ['marco@gmail.com', 'luca@gmail.com', 'franco@gmail.com'];
 let userMail = (prompt('type here your mail'));
 
 if(mailArray.includes(userMail)){
-    console.log( userMail + 'you are registered on this site');
+    console.log( userMail + ' you are registered on this site');
 }else{
     console.log('you are not registered on this site');
 }
